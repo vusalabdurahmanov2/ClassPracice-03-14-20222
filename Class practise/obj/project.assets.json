@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\sh13ld\\.nuget\\packages\\": {}
+    "C:\\Users\\tu7eay65k\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sh13ld\\Videos\\tasks\\Class practise\\Class practise\\Class practise.csproj",
+      "projectUniqueName": "C:\\Users\\tu7eay65k\\Desktop\\task\\new\\Class practise\\Class practise.csproj",
       "projectName": "Class practise",
-      "projectPath": "C:\\Users\\sh13ld\\Videos\\tasks\\Class practise\\Class practise\\Class practise.csproj",
-      "packagesPath": "C:\\Users\\sh13ld\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sh13ld\\Videos\\tasks\\Class practise\\Class practise\\obj\\",
+      "projectPath": "C:\\Users\\tu7eay65k\\Desktop\\task\\new\\Class practise\\Class practise.csproj",
+      "packagesPath": "C:\\Users\\tu7eay65k\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tu7eay65k\\Desktop\\task\\new\\Class practise\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\sh13ld\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu7eay65k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

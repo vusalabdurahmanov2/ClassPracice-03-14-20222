@@ -12,3 +12,17 @@ C:\Users\sh13ld\Videos\tasks\Class practise\Class practise\obj\Debug\netcoreapp3
 C:\Users\sh13ld\Videos\tasks\Class practise\Class practise\obj\Debug\netcoreapp3.1\Class practise.dll
 C:\Users\sh13ld\Videos\tasks\Class practise\Class practise\obj\Debug\netcoreapp3.1\Class practise.pdb
 C:\Users\sh13ld\Videos\tasks\Class practise\Class practise\obj\Debug\netcoreapp3.1\Class practise.genruntimeconfig.cache
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\bin\Debug\netcoreapp3.1\Class practise.exe
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\bin\Debug\netcoreapp3.1\Class practise.deps.json
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\bin\Debug\netcoreapp3.1\Class practise.runtimeconfig.json
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\bin\Debug\netcoreapp3.1\Class practise.runtimeconfig.dev.json
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\bin\Debug\netcoreapp3.1\Class practise.dll
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\bin\Debug\netcoreapp3.1\Class practise.pdb
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\obj\Debug\netcoreapp3.1\Class practise.csproj.AssemblyReference.cache
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\obj\Debug\netcoreapp3.1\Class practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\obj\Debug\netcoreapp3.1\Class practise.AssemblyInfoInputs.cache
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\obj\Debug\netcoreapp3.1\Class practise.AssemblyInfo.cs
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\obj\Debug\netcoreapp3.1\Class practise.csproj.CoreCompileInputs.cache
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\obj\Debug\netcoreapp3.1\Class practise.dll
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\obj\Debug\netcoreapp3.1\Class practise.pdb
+C:\Users\tu7eay65k\Desktop\task\new\Class practise\obj\Debug\netcoreapp3.1\Class practise.genruntimeconfig.cache
